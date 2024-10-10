@@ -21,13 +21,11 @@ A system to manage product details, inventory, and provide CRUD functionality, w
 
 - **Features**: Product CRUD, Inventory Management, Branch Management in Git
 - **Status**: In Progress
-- **GitHub Repository**: [Link to your repository]
-
+- **GitHub Repository**: [Product Management](https://github.com/hemangdevaliya77/Product-Management)
 ## 📫 Connect with Me
 
-- **GitHub**: [makaliansoft](https://github.com/makaliansoft)
-- **LinkedIn**: [Your LinkedIn Profile](#) (Update with your link)
-- **Email**: manav.kaneria@aliansoftware.com
+- **GitHub**: [HemangDevaliya](https://github.com/hemangdevaliya77)
+- **Email**: hemang.devaliya@aliansoftware.com
 
 ## 💡 Fun Fact
 I love learning new coding concepts and experimenting with different projects. I'm always excited to work on projects that challenge my understanding and push my boundaries!
